@@ -1,5 +1,0 @@
->>> import pandas as pd
->>> Data = {'Lowercase letters': ['a', 'b', 'c'],
-            'Capital letters': ['A', 'B', 'C']}
->>> Data = pd.DataFrame(Data)
->>> Data
